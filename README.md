@@ -1,5 +1,5 @@
 # santana
-Portfólio de projetos de dados,, ponta a ponta: 
-  Banco de dados em Cloud, 
-  ETL com Apache Hop e outros,
-  Dashboard
+Portfólio de projetos de dados de ponta a ponta: 
+##### 1-Banco de dados em Cloud, 
+#####  2-ETL com Apache Hop e outros,
+#####   3-Dashboard
